@@ -76,10 +76,50 @@ h2{
 }
 
 .drop-shadow{
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 1px;
+    margin-left: 70px;
+    margin-right: 12px;
     border-radius: 30px;
-    padding: 20px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 5px 10px 18px rgb(214, 214, 214);
+    }
+.drop-shadow1{
+    box-shadow: 5px 10px 18px rgb(214, 214, 214);
+    margin-left: 12px;
+    margin-right: 70px;
+    border-radius: 30px;
+}
+
+.image-width3rd{
+    width: 540px;
+    height: 340px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.image-width4th{
+    width: 510px;
+    height: 340px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.h3design{
+    margin-left: 30px;
+    margin-right: 25px; 
+    margin-bottom: 0;   
+}
+.h3design2{
+    margin-right: 30px;
+    margin-left: 25px;
+    margin-bottom: 0;
+}
+
+.thirdpage1{
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+}
+.thirdpage2{
+    margin-right: 30px;
+    margin-left: 25px;
+    margin-bottom: 30px;
 }

@@ -148,3 +148,23 @@ h4{
     border-radius: 30px;
     box-shadow: 5px 10px 18px rgb(214, 214, 214);
 }
+footer{
+    background-color:rgb(22, 22, 36);
+    height: 160px;
+    padding: 50px;
+}
+.foter01{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.eat-design{
+    color: tomato;
+}
+.fresh-desigh{
+    color: gray;
+}
+.foter02{
+    text-align: center;
+    color: white;
+}
